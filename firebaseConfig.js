@@ -2,7 +2,7 @@
 import { initializeApp } from 'firebase/app';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDmtB5XBBMTV9CTWldld01XIGNAW4u4blU",
+  apiKey: "api_key",
   authDomain: "pawpalnativeapa.firebaseapp.com",
   projectId: "pawpalnativeapa",
   storageBucket: "pawpalnativeapa.appspot.com",
